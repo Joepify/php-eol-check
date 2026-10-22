@@ -1,0 +1,25 @@
+{
+  "title": "php-eol-check: PHP version and security support checker",
+  "upload_type": "software",
+  "description": "Command-line tool (Python, no dependencies) that shows which PHP version a website exposes and whether that branch still receives security fixes, using php.net data. Made by Joepify, Rotterdam: https://www.joepify.nl",
+  "creators": [
+    {
+      "name": "Assaidi, Ayoub",
+      "affiliation": "Joepify"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "php",
+    "end of life",
+    "security",
+    "wordpress"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.joepify.nl",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}
